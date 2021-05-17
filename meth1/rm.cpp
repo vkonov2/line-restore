@@ -53,6 +53,7 @@ int rm (const int count)
     }
 
     system ("find . -name '*.o' -type f -delete");
+    system ("find . -name '._*' -type f -delete");
     system ("find . -name '*.out' -type f -delete");
 
 	return 1;
