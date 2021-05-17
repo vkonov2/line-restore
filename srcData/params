@@ -1,0 +1,28 @@
+SRC DATA PARAMETERS
+  version  21
+v.1:
+  pInitialModel        290105B0      verts 126  facets  65  edges 189
+  nReflectContours      17
+  pReflectContour      28DD9920
+  nShadowContours      800
+  pShadowContour       397D08C0
+  threshold               0.500000000000000
+  shadowContourWeight     1.000000000000000
+  reflectContourWeight    1.000000000000000
+  targetEdgeWeight        1.000000000000000
+v.2:
+  pPolygonizedContours 3942E9E8
+     ContoursCount 400
+v.3:
+  nFalseEdges          0
+  pFalseEdges          00000000
+v.4:
+  nReportCutting       9       REP_StepCuts
+  pFacetTypes          2894C878
+v.5:
+  targetEdgeCalcMode   0
+v.6:
+  modelRefinerCalcMode 0
+v.10:
+  nShadowMergedContours 400
+  pShadowMergedContour  43D31620

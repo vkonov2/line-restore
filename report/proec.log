@@ -1,0 +1,1077 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.28)  4 MAY 2021 18:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**proec.tex
+(./proec.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrreprt.cls
+Document Class: scrreprt 2019/02/01 v3.26b KOMA-Script document class (report)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box27
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 136.
+Class scrreprt Info: You've used standard option `final'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `draft=false'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `draft=false' there
+(scrreprt)           instead of `final', too.
+
+
+Package scrreprt Warning: You've used obsolete option `14pt'.
+(scrreprt)                Usage of this option indicates an old document
+(scrreprt)                and changes compatibility level using
+(scrreprt)                `fontsize=14pt,version=first,
+(scrreprt)                enabledeprecatedfontcommands' that may result
+(scrreprt)                in further warnings.
+(scrreprt)                If you don't want this, you should simply
+(scrreprt)                replace option `14pt' by `fontsize=14pt'.
+
+Class scrreprt Info: Switching compatibility level to `first'.
+
+Class scrreprt Warning: deprecated option `enabledeprecatedfontcommands'.
+(scrreprt)              Note, that this option was already depreacted when
+(scrreprt)              it has been defined. Support for old font commands
+(scrreprt)              has been removed from KOMA-Script more than one
+(scrreprt)              decade ago. It is not recommended to use them any
+(scrreprt)              longer. Therefore usage of this class option also
+(scrreprt)              is not recommended.
+
+Class scrreprt Info: File `size14.clo' used to setup font sizes on input line 2
+373.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2019/02/01 v3.26b KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count80
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+
+
+Package typearea Warning: DIV for 14.0pt and used papersize
+(typearea)                not defined!
+(typearea)                Using DIV=calc.
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 17
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 492.06537pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = -19.5487pt
+(typearea)              \oddsidemargin  = -19.5487pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 711.0pt
+(typearea)              \topmargin      = -69.31136pt
+(typearea)              \headheight     = 21.25pt
+(typearea)              \headsep        = 25.5pt
+(typearea)              \topskip        = 14.0pt
+(typearea)              \footskip       = 59.5pt
+(typearea)              \baselineskip   = 17.0pt
+(typearea)              on input line 1715.
+)
+\c@part=\count81
+\c@chapter=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\scr@dte@chapter@maxnumwidth=\skip47
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\chapter on input line 5305.
+\scr@dte@section@maxnumwidth=\skip48
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\section on input line 5315.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\section on input line 5315.
+\scr@dte@part@maxnumwidth=\skip49
+Class scrreprt Info: using compatibility default `afterindent=true'
+(scrreprt)           for `\part on input line 5324.
+\scr@dte@subsection@maxnumwidth=\skip50
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsection on input line 5334.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsection on input line 5334.
+\scr@dte@subsubsection@maxnumwidth=\skip51
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsubsection on input line 5344.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsubsection on input line 5344.
+\scr@dte@paragraph@maxnumwidth=\skip52
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\paragraph on input line 5354.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\paragraph on input line 5354.
+\scr@dte@subparagraph@maxnumwidth=\skip53
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subparagraph on input line 5364.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subparagraph on input line 5364.
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\c@pti@nb@sid@b@x=\box28
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6613.
+\scr@dte@figure@maxnumwidth=\skip56
+\c@figure=\count88
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6630.
+\scr@dte@table@maxnumwidth=\skip57
+\c@table=\count89
+Class scrreprt Info: Using old \@makefntext due to compatibility level
+(scrreprt)           less than 3.22 on input line 6786.
+Class scrreprt Info: Redefining `\numberline' on input line 6799.
+\bibindent=\dimen102
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count90
+\uc@combtoks=\toks17
+\uc@combtoksb=\toks18
+\uc@temptokena=\toks19
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/05/04 3.31 The Babel package
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count91
+\U@D=\dimen103
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count92
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip58
+\thm@postskip=\skip59
+\thm@headsep=\skip60
+\dth@everypar=\toks26
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen104
+\PaperHeight=\dimen105
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip61
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen106
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks28
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks29
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks30
+\multlinegap=\skip62
+\multlinetaggap=\skip63
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count105
+\lst@gtempboxa=\box31
+\lst@token=\toks32
+\lst@length=\count106
+\lst@currlwidth=\dimen117
+\lst@column=\count107
+\lst@pos=\count108
+\lst@lostspace=\dimen118
+\lst@width=\dimen119
+\lst@newlines=\count109
+\lst@lineno=\count110
+\lst@maxwidth=\dimen120
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count111
+\lst@skipnumbers=\count112
+\lst@framebox=\box32
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count113
+\mult@box=\box33
+\multicol@leftmargin=\dimen121
+\c@unbalance=\count114
+\c@collectmore=\count115
+\doublecol@number=\count116
+\multicoltolerance=\count117
+\multicolpretolerance=\count118
+\full@width=\dimen122
+\page@free=\dimen123
+\premulticols=\dimen124
+\postmulticols=\dimen125
+\multicolsep=\skip64
+\multicolbaselineskip=\skip65
+\partial@page=\box34
+\last@line=\box35
+\maxbalancingoverflow=\dimen126
+\mult@rightbox=\box36
+\mult@grightbox=\box37
+\mult@gfirstbox=\box38
+\mult@firstbox=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\c@columnbadness=\count119
+\c@finalcolumnbadness=\count120
+\last@try=\dimen127
+\multicolovershoot=\dimen128
+\multicolundershoot=\dimen129
+\mult@nat@firstbox=\box57
+\colbreak@box=\box58
+\mc@col@check@num=\count121
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen130
+\Hy@linkcounter=\count122
+\Hy@pagecounter=\count123
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count124
+Package hyperref Info: Option `unicode' set `true' on input line 3475.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `final' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count125
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen131
+\Fld@menulength=\count126
+\Field@Width=\dimen132
+\Fld@charsize=\dimen133
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count127
+\c@Item=\count128
+\c@Hfootnote=\count129
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count130
+\c@bookmark@seq@number=\count131
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip66
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 26.
+
+
+LaTeX Warning: Unused global option(s):
+    [article].
+
+(./proec.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 22.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+LaTeX Warning: Label `math2:error:synth' multiply defined.
+
+
+LaTeX Warning: Label `math2:error:real' multiply defined.
+
+
+LaTeX Warning: Label `math2:error:synth' multiply defined.
+
+
+LaTeX Warning: Label `math2:error:real' multiply defined.
+
+)
+\openout1 = `proec.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count132
+\scratchdimen=\dimen134
+\scratchbox=\box59
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen135
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks34
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count138
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring ON on input line 31.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count139
+)
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
+
+(./proec.out) (./proec.out)
+\@outlinefile=\write3
+\openout3 = `proec.out'.
+
+Class scrreprt Info: loading recommended package `bookmark'.
+(scrreprt)           Using `bookmark' together with `hyperref' is recommended,
+(scrreprt)           because of handling of possible bookmark level gaps.
+(scrreprt)           You can avoid loading `bookmark' with KOMA-Script option
+(scrreprt)           `bookmarkpackage=false' before \begin{document} and
+(scrreprt)           you can avoid this message with `\usepackage{bookmark}'
+(scrreprt)           before \begin{document} on input line 31.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
+Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
+Package auxhook Info: \AddLineBeginMainAux comes a little late,
+(auxhook)             because the main .aux file is already opened on input lin
+e 164.
+\BKM@id=\count140
+))
+\c@theorem=\count141
+\c@problem=\count142
+\c@lemma=\count143
+\c@clair=\count144
+\c@definition=\count145
+\c@property=\count146
+\c@conseq=\count147
+\c@properties=\count148
+
+(./title.tex (/usr/local/texlive/2019/texmf-dist/tex/latex/ucs/data/uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+<images/mm.jpg, id=4, 303.1325pt x 198.24063pt>
+File: images/mm.jpg Graphic file (type jpg)
+<use images/mm.jpg>
+Package pdftex.def Info: images/mm.jpg  used on input line 7.
+(pdftex.def)             Requested size: 181.8809pt x 118.94528pt.
+\ML=\skip67
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+s/mm.jpg>])
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 71.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) (./proec.toc)
+\tf@toc=\write4
+\openout4 = `proec.toc'.
+
+ [2
+
+]
+chapter 1.
+
+Class scrreprt Warning: \float@addtolists detected!
+(scrreprt)              Implementation of \float@addtolist became
+(scrreprt)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrreprt)              has been replaced by several more flexible
+(scrreprt)              features of package `tocbasic`.
+(scrreprt)              Since Version 3.12 support for deprecated
+(scrreprt)              \float@addtolist interface has been
+(scrreprt)              restricted to only some of the KOMA-Script
+(scrreprt)              features and been removed from others.
+(scrreprt)              Loading of package `scrhack' may help to
+(scrreprt)              avoid this warning, if you are using a
+(scrreprt)              a package that still implements the
+(scrreprt)              deprecated \float@addtolist interface .
+
+<images/10.jpg, id=82, 576.1525pt x 469.755pt>
+File: images/10.jpg Graphic file (type jpg)
+<use images/10.jpg>
+Package pdftex.def Info: images/10.jpg  used on input line 79.
+(pdftex.def)             Requested size: 460.9226pt x 375.80452pt.
+[3
+
+ <./images/10.jpg>]
+chapter 2.
+(./meth1.tex (/usr/local/texlive/2019/texmf-dist/tex/latex/ucs/data/uni-33.def
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+)
+<images/11.jpg, id=91, 651.43375pt x 530.98375pt>
+File: images/11.jpg Graphic file (type jpg)
+<use images/11.jpg>
+Package pdftex.def Info: images/11.jpg  used on input line 12.
+(pdftex.def)             Requested size: 456.0005pt x 371.68608pt.
+[4
+
+ <./images/11.jpg>] [5]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 95.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+<images/meth1synth.png, id=111, 642.4pt x 481.8pt>
+File: images/meth1synth.png Graphic file (type png)
+<use images/meth1synth.png>
+Package pdftex.def Info: images/meth1synth.png  used on input line 140.
+(pdftex.def)             Requested size: 449.67694pt x 337.25769pt.
+ [6]
+<images/meth1synthproec1.png, id=118, 642.4pt x 481.8pt>
+File: images/meth1synthproec1.png Graphic file (type png)
+<use images/meth1synthproec1.png>
+Package pdftex.def Info: images/meth1synthproec1.png  used on input line 145.
+(pdftex.def)             Requested size: 417.55505pt x 313.16628pt.
+<images/meth1synthproec2.png, id=119, 642.4pt x 481.8pt>
+File: images/meth1synthproec2.png Graphic file (type png)
+<use images/meth1synthproec2.png>
+Package pdftex.def Info: images/meth1synthproec2.png  used on input line 148.
+(pdftex.def)             Requested size: 417.55505pt x 313.16628pt.
+ [7 <./images/meth1synth.png (PNG copy)> <./images/meth1synthproec1.png (PNG co
+py)>]
+<images/meth1synthproec3.png, id=126, 642.4pt x 481.8pt>
+File: images/meth1synthproec3.png Graphic file (type png)
+<use images/meth1synthproec3.png>
+Package pdftex.def Info: images/meth1synthproec3.png  used on input line 151.
+(pdftex.def)             Requested size: 417.55505pt x 313.16628pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+[8 <./images/meth1synthproec2.png (PNG copy)> <./images/meth1synthproec3.png (P
+NG copy)>]
+<images/meth1lineapprox.png, id=131, 642.4pt x 481.8pt>
+File: images/meth1lineapprox.png Graphic file (type png)
+<use images/meth1lineapprox.png>
+Package pdftex.def Info: images/meth1lineapprox.png  used on input line 174.
+(pdftex.def)             Requested size: 513.9207pt x 385.4405pt.
+
+Overfull \hbox (1.13089pt too wide) in paragraph at lines 174--175
+ [] 
+ []
+
+<images/meth1realresult.png, id=132, 642.4pt x 481.8pt>
+File: images/meth1realresult.png Graphic file (type png)
+<use images/meth1realresult.png>
+Package pdftex.def Info: images/meth1realresult.png  used on input line 178.
+(pdftex.def)             Requested size: 449.67694pt x 337.25769pt.
+[9 <./images/meth1lineapprox.png (PNG copy)>]
+<images/meth1realsideview.png, id=138, 642.4pt x 481.8pt>
+File: images/meth1realsideview.png Graphic file (type png)
+<use images/meth1realsideview.png>
+Package pdftex.def Info: images/meth1realsideview.png  used on input line 182.
+(pdftex.def)             Requested size: 449.67694pt x 337.25769pt.
+ [10 <./images/meth1realresult.png (PNG copy)> <./images/meth1realsideview.png 
+(PNG copy)>]) (./meth2.tex
+<images/120.jpg, id=143, 645.41125pt x 548.0475pt>
+File: images/120.jpg Graphic file (type jpg)
+<use images/120.jpg>
+Package pdftex.def Info: images/120.jpg  used on input line 13.
+(pdftex.def)             Requested size: 451.7848pt x 383.63063pt.
+<images/122.jpg, id=144, 765.86125pt x 477.785pt>
+File: images/122.jpg Graphic file (type jpg)
+<use images/122.jpg>
+Package pdftex.def Info: images/122.jpg  used on input line 17.
+(pdftex.def)             Requested size: 536.09921pt x 334.44722pt.
+
+Overfull \hbox (23.3094pt too wide) in paragraph at lines 17--18
+ [][] 
+ []
+
+[11 <./images/120.jpg>]
+Underfull \hbox (badness 2050) in paragraph at lines 28--29
+\T2A/cmr/m/n/14.4 мно-же-ствен-но-го при-ме-не-ния на-хож-де-ния то-чек, ми-ни-
+маль-но уда-лен-ных от
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+[12 <./images/122.jpg>]
+<images/meth2synthmidpoints.png, id=155, 642.4pt x 481.8pt>
+File: images/meth2synthmidpoints.png Graphic file (type png)
+<use images/meth2synthmidpoints.png>
+Package pdftex.def Info: images/meth2synthmidpoints.png  used on input line 59.
+
+(pdftex.def)             Requested size: 417.55505pt x 313.16628pt.
+<images/meth2synth.png, id=156, 642.4pt x 481.8pt>
+File: images/meth2synth.png Graphic file (type png)
+<use images/meth2synth.png>
+Package pdftex.def Info: images/meth2synth.png  used on input line 63.
+(pdftex.def)             Requested size: 449.67694pt x 337.25769pt.
+ [13 <./images/meth2synthmidpoints.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<images/meth2real.png, id=163, 642.4pt x 481.8pt>
+File: images/meth2real.png Graphic file (type png)
+<use images/meth2real.png>
+Package pdftex.def Info: images/meth2real.png  used on input line 86.
+(pdftex.def)             Requested size: 449.67694pt x 337.25769pt.
+[14 <./images/meth2synth.png (PNG copy)>]
+<images/meth2realsideview.png, id=169, 642.4pt x 481.8pt>
+File: images/meth2realsideview.png Graphic file (type png)
+<use images/meth2realsideview.png>
+Package pdftex.def Info: images/meth2realsideview.png  used on input line 90.
+(pdftex.def)             Requested size: 449.67694pt x 337.25769pt.
+ [15 <./images/meth2real.png (PNG copy)> <./images/meth2realsideview.png (PNG c
+opy)>]) (./meth3.tex
+<images/131.jpg, id=174, 539.01375pt x 548.0475pt>
+File: images/131.jpg Graphic file (type jpg)
+<use images/131.jpg>
+Package pdftex.def Info: images/131.jpg  used on input line 13.
+(pdftex.def)             Requested size: 323.41074pt x 328.83104pt.
+<images/132.jpg, id=175, 732.7375pt x 687.56876pt>
+File: images/132.jpg Graphic file (type jpg)
+<use images/132.jpg>
+Package pdftex.def Info: images/132.jpg  used on input line 19.
+(pdftex.def)             Requested size: 351.71pt x 330.02925pt.
+ [16 <./images/131.jpg>]
+<images/133.jpg, id=181, 738.76pt x 699.61375pt>
+File: images/133.jpg Graphic file (type jpg)
+<use images/133.jpg>
+Package pdftex.def Info: images/133.jpg  used on input line 23.
+(pdftex.def)             Requested size: 354.60077pt x 335.81079pt.
+ [17 <./images/132.jpg> <./images/133.jpg>] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+[21] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+[23] [24] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
+
+ []
+
+[27]) (./comparison.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+[28]) [29]
+chapter 3.
+(./line_points.tex
+<images/1.jpg, id=241, 461.725pt x 418.56375pt>
+File: images/1.jpg Graphic file (type jpg)
+<use images/1.jpg>
+Package pdftex.def Info: images/1.jpg  used on input line 9.
+(pdftex.def)             Requested size: 138.51857pt x 125.57008pt.
+<images/2.jpg, id=242, 508.90125pt x 339.2675pt>
+File: images/2.jpg Graphic file (type jpg)
+<use images/2.jpg>
+Package pdftex.def Info: images/2.jpg  used on input line 16.
+(pdftex.def)             Requested size: 254.45pt x 169.63333pt.
+<images/3.jpg, id=243, 345.29pt x 236.885pt>
+File: images/3.jpg Graphic file (type jpg)
+<use images/3.jpg>
+Package pdftex.def Info: images/3.jpg  used on input line 17.
+(pdftex.def)             Requested size: 172.64456pt x 118.4422pt.
+ [30
+
+ <./images/1.jpg> <./images/2.jpg> <./images/3.jpg>]
+[31] [32] [33] [34]
+<images/4.jpg, id=268, 354.32375pt x 145.54375pt>
+File: images/4.jpg Graphic file (type jpg)
+<use images/4.jpg>
+Package pdftex.def Info: images/4.jpg  used on input line 231.
+(pdftex.def)             Requested size: 283.45938pt x 116.43513pt.
+ [35 <./images/4.jpg>] [36] [37]
+Overfull \hbox (52.59834pt too wide) in paragraph at lines 341--347
+ []  \OMS/cmsy/m/n/14.4 , 
+ []
+
+[38] [39] [40]
+<images/5.jpg, id=296, 226.8475pt x 99.37125pt>
+File: images/5.jpg Graphic file (type jpg)
+<use images/5.jpg>
+Package pdftex.def Info: images/5.jpg  used on input line 449.
+(pdftex.def)             Requested size: 226.84694pt x 99.371pt.
+<images/6.jpg, id=297, 582.175pt x 481.8pt>
+File: images/6.jpg Graphic file (type jpg)
+<use images/6.jpg>
+Package pdftex.def Info: images/6.jpg  used on input line 456.
+(pdftex.def)             Requested size: 407.51973pt x 337.25769pt.
+ [41 <./images/5.jpg> <./images/6.jpg>]
+<images/7.jpg, id=305, 208.78pt x 119.44624pt>
+File: images/7.jpg Graphic file (type jpg)
+<use images/7.jpg>
+Package pdftex.def Info: images/7.jpg  used on input line 466.
+(pdftex.def)             Requested size: 208.77946pt x 119.44594pt.
+<images/8.jpg, id=306, 691.58376pt x 583.17876pt>
+File: images/8.jpg Graphic file (type jpg)
+<use images/8.jpg>
+Package pdftex.def Info: images/8.jpg  used on input line 473.
+(pdftex.def)             Requested size: 414.95345pt x 349.90996pt.
+) (./line_planes.tex
+[42 <./images/7.jpg> <./images/8.jpg>]
+<images/plane01.jpg, id=315, 776.9025pt x 741.77126pt>
+File: images/plane01.jpg Graphic file (type jpg)
+<use images/plane01.jpg>
+Package pdftex.def Info: images/plane01.jpg  used on input line 9.
+(pdftex.def)             Requested size: 388.45029pt x 370.88472pt.
+<images/plane02.jpg, id=316, 572.1375pt x 480.79625pt>
+File: images/plane02.jpg Graphic file (type jpg)
+<use images/plane02.jpg>
+Package pdftex.def Info: images/plane02.jpg  used on input line 16.
+(pdftex.def)             Requested size: 400.49352pt x 336.55507pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[43 <./images/plane01.jpg>] [44 <./images/plane02.jpg>] [45]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 99.
+ [46] [47]
+[48]
+Underfull \hbox (badness 1895) in paragraph at lines 165--166
+[]\T2A/cmr/m/n/14.4 Будем рас-смат-ри-вать за-да-чу внут-ри объ-ем-лю-щей приз-
+мы, огра-ни-чен-ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+
+Overfull \hbox (16.76509pt too wide) detected at line 207
+[][]
+ []
+
+[49]) (./reper.tex [50]
+<images/cords2d.jpg, id=363, 427.5975pt x 410.53375pt>
+File: images/cords2d.jpg Graphic file (type jpg)
+<use images/cords2d.jpg>
+Package pdftex.def Info: images/cords2d.jpg  used on input line 10.
+(pdftex.def)             Requested size: 213.79822pt x 205.26637pt.
+<images/cords3d.jpg, id=364, 572.1375pt x 509.905pt>
+File: images/cords3d.jpg Graphic file (type jpg)
+<use images/cords3d.jpg>
+Package pdftex.def Info: images/cords3d.jpg  used on input line 17.
+(pdftex.def)             Requested size: 286.06804pt x 254.95187pt.
+ [51 <./images/cords2d.jpg> <./images/cords3d.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+[52] [53]
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+) (./bibl.tex [54]
+Underfull \hbox (badness 1275) in paragraph at lines 7--8
+\T2A/cmr/m/n/14.4 по-со-бие. --- М.: Изд-во Цен-тра при-клад-ных ис-сле-до-ва-н
+ий при механико-
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
+ [55
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+ (./proec.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
+Package rerunfilecheck Info: File `proec.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
+ ) 
+Here is how much of TeX's memory you used:
+ 16734 strings out of 492616
+ 244247 string characters out of 6129481
+ 464200 words of memory out of 5000000
+ 20294 multiletter control sequences out of 15000+600000
+ 19127 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,18n,66p,9112b,665s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
+}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2
+019/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2019/
+texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2019/te
+xmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texlive/2019/texm
+f-dist/fonts/type1/public/cm-super/sfsx2986.pfb></usr/local/texlive/2019/texmf-
+dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/texlive/2019/texmf-di
+st/fonts/type1/public/cm-super/sftt1440.pfb>
+Output written on proec.pdf (55 pages, 2234685 bytes).
+PDF statistics:
+ 590 PDF objects out of 1000 (max. 8388607)
+ 473 compressed objects within 5 object streams
+ 119 named destinations out of 1000 (max. 500000)
+ 396 words of extra memory for PDF output out of 10000 (max. 10000000)
+

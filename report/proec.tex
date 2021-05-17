@@ -1,0 +1,110 @@
+\documentclass[article,final,14pt]{scrreprt}
+\usepackage[utf8x]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{vmargin}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{multicol}
+% \usepackage[Lenny]{fncychap}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\setpapersize{A4}
+\setmarginsrb{2cm}{1.5cm}{1cm}{1.5cm}{0pt}{0mm}{0pt}{13mm}
+\usepackage{indentfirst}
+\sloppy
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\graphicspath{{images/}}
+
+\definecolor{linkcolor}{HTML}{800000}
+\definecolor{urlcolor}{HTML}{6495ED}
+
+\hypersetup{pdfstartview=FitH,  linkcolor=linkcolor,urlcolor=urlcolor, colorlinks=true}
+
+\setcounter{tocdepth}{2}
+\linespread{1}
+
+\begin{document}
+
+\newtheorem{theorem}{Теорема}
+
+\newtheorem{problem}{Задача}[chapter]
+
+\newtheorem{lemma}{Лемма}[chapter]
+
+\newtheorem{clair}{Утверждение}[chapter]
+
+\newtheorem{definition}{Определение}[chapter]
+
+\newtheorem{property}{Свойство}[chapter]
+
+\newtheorem{conseq}{Следствие}[chapter]
+
+\newtheorem{properties}{Свойства}[chapter]
+
+\newtheorem*{remark}{Замечание}
+
+\newenvironment{Proof}       
+	{\par\noindent{\bf Доказательство.}}
+	{\hfill$\blacksquare$}
+
+\newenvironment{solution}       
+	{\par\noindent{\bf Решение.}}
+	{\hfill$\blacksquare$}
+
+\newcommand{\red}[1]{\textbf{\color{red}#1}}
+\newcommand{\blue}[1]{\textbf{\color{blue}#1}}
+\newcommand{\green}[1]{\textbf{\color{green}#1}}
+
+\def\ton#1{1,2,\dots,#1}
+\def\Set#1#2{\left\{#1\colon#2\right\}}
+\def\MYdef{\mathrel{\stackrel{\rm def}=}}
+
+\addto\captionsrussian{\def\refname{Список используемой литературы}}
+
+\input{title}
+
+\tableofcontents
+
+\chapter{Постановка задачи}\label{task}
+
+Даны три множества из $n_1$, $n_2$ и $n_3$ точек на трех плоскостях $\pi_1$, $\pi_2$, $\pi_3$ в пространстве. Необходимо восстановить отрезок, являющегося прообразом проекций на плоскостях, как можно точнее.
+
+\begin{figure}[h]
+	{ \noindent \centering
+	\includegraphics[scale=0.8]{10}
+	\caption{Три множества точек, три плоскости и отрезок.}
+	}
+\end{figure}
+
+\textbf{История задачи:}
+
+Имеется отрезок и три плоскости. По трем заданным направлениям отрезок проецируется на эти плоскости, где мы получаем три отрезка.
+
+Теперь стоит обратная задача. Даны три множества точек, каждое из которых находится на соответствующей плоскости. Направления изначального проецирования заданы. По этим наборам точек на плоскостях и по направлениям проецирования нужно найти исходный отрезок.
+
+\newpage
+\chapter{Решение}
+
+\input{meth1.tex}
+\input{meth2.tex}
+\input{meth3.tex}
+% \input{meth4.tex}
+
+\input{comparison.tex}
+
+\chapter{Вспомогательные алгоритмы}\label{algs}
+
+\input{line_points.tex}
+\input{line_planes.tex}
+\input{reper.tex}
+
+% \input{conclusion.tex}
+
+\input{bibl.tex}
+
+\end{document}

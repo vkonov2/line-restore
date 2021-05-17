@@ -1,0 +1,72 @@
+# plot several facets
+reset
+# facet[  0]
+set label "0" at 0.018083,1.960957
+# facet[  1]
+set label "1" at 3.624388,-0.008491
+# facet[  2]
+set label "2" at 0.168193,-2.188137
+# facet[  3]
+set label "3" at -3.402759,-0.213943
+# facet[  4]
+set label "4" at 2.729711,-0.037502
+# facet[  5]
+set label "5" at 0.123442,-1.311917
+# facet[  6]
+set label "6" at -2.551673,-0.200832
+# facet[  7]
+set label "7" at 0.027052,1.072882
+# facet[  8]
+set label "8" at 2.189989,-0.043376
+# facet[  9]
+set label "9" at 0.143560,-0.752410
+# facet[ 10]
+set label "10" at -2.008520,-0.182593
+# facet[ 11]
+set label "11" at 0.056971,0.533829
+# facet[ 12]
+set label "12" at 1.790478,-0.047869
+# facet[ 13]
+set label "13" at 0.106545,-0.307316
+# facet[ 14]
+set label "14" at -1.612847,-0.158322
+# facet[ 15]
+set label "15" at 0.078936,0.098676
+# facet[ 32]
+set label "32" at 0.239976,-2.725984
+# facet[ 36]
+set label "36" at 0.039025,2.515518
+# facet[ 37]
+set label "37" at 3.230836,1.772710
+# facet[ 38]
+set label "38" at 3.374859,-1.805124
+# facet[ 39]
+set label "39" at -3.023716,-1.992232
+# facet[ 40]
+set label "40" at -3.158358,1.573560
+# facet[ 41]
+set label "41" at 2.496412,1.002092
+# facet[ 42]
+set label "42" at 2.595431,-1.092705
+# facet[ 43]
+set label "43" at -2.345163,-1.227820
+# facet[ 44]
+set label "44" at -2.414926,0.836446
+# facet[ 45]
+set label "45" at 2.059066,0.533385
+# facet[ 46]
+set label "46" at 2.115904,-0.630063
+# facet[ 47]
+set label "47" at -1.888254,-0.748474
+# facet[ 48]
+set label "48" at -1.929246,0.398239
+# facet[ 49]
+set label "49" at 1.727859,0.173896
+# facet[ 50]
+set label "50" at 1.739346,-0.262550
+# facet[ 51]
+set label "51" at -1.539968,-0.381362
+# facet[ 52]
+set label "52" at -1.565704,0.064985
+show label
+plot "inipv0-facets" with lines lt 4
